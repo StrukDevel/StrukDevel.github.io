@@ -1320,5 +1320,8 @@ footer p {
   -webkit-transition-timing-function: ease-in-out;
 }
 
+.btn-center {
+   text-align: center;    
+}    
 
 
